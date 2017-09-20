@@ -528,7 +528,6 @@
     {
         [self.hudView addSubview:indicatorView];
     }
-    [self.hudView addSubview:indicatorView];
     [self updateViews];
 }
 
